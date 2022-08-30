@@ -28,6 +28,8 @@ class WeatherViewController: UIViewController {
     }
 }
 
+// MARK: - Delegate Implementations
+
 extension WeatherViewController: UITextFieldDelegate {
     
     // Return on the keyboard pressed.
